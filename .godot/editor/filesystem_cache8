@@ -1,0 +1,11 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1694775207
+icon.svg::CompressedTexture2D::8521077041158490020::1694754202::1694754207::1::::<><>::
+new_script.gd::GDScript::-1::1694754288::0::1::::<>GraphEdit<>::
+README.md::TextFile::-1::1694775013::0::1::::<><>::
+::res://addons/::1694754503
+::res://addons/testplugin/::1694767029
+plugin.cfg::TextFile::-1::1694755879::0::1::::<><>::
+VisualScriptEditGraph.tscn::PackedScene::7676698086789194499::1694767029::0::1::::<><>::
+VSGraphLogic.gd::GDScript::-1::1694755752::0::1::::<>GraphEdit<>::
+VSMainLogic.gd::GDScript::-1::1694764762::0::1::::<>EditorPlugin<>::
